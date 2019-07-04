@@ -3,4 +3,5 @@ body
     color:blue;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+    appearance: inherit;
 }
